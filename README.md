@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mujeeb-shaikh7
-- 👀 I’m interested in programming
+- 👀 I’m coding enrhusiastic
 - 🌱 I’m currently learning full stack development
 
 
